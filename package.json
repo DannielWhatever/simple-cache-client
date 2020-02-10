@@ -1,0 +1,23 @@
+{
+  "name": "simple-cache-client",
+  "version": "1.0.0",
+  "description": "simple cache client for store and retrieve json values",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest test/ --coverage"
+  },
+  "keywords": [
+    "redis",
+    "memcached"
+  ],
+  "author": "dannielwhatever",
+  "repository": "github:dannielwhatever/simple-cache-client",
+  "license": "ISC",
+  "dependencies": {
+    "async-redis": "^1.1.7",
+    "memcache-client": "^0.10.1"
+  },
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
+}

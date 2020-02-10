@@ -1,0 +1,12 @@
+{
+  "name": "caching-weas",
+  "version": "1.0.0",
+  "description": "neh",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo oliwi"
+  },
+  "author": "dannielwhatever",
+  "license": "ISC",
+  "dependencies": {}
+}
