@@ -1,6 +1,6 @@
 {
   "name": "simple-cache-client",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "simple cache client for store and retrieve json values",
   "main": "index.js",
   "scripts": {
